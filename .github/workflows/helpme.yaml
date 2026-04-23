@@ -198,3 +198,4 @@ jobs:
 
   # GATE#4: IaC scanning — skipped (out of scope)
   # GATE#5: DAST — skipped (covered in OWASP ZAP workshop)
+  
